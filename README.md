@@ -22,6 +22,12 @@ TSC MLBB X is a tool developed to help you achieve all the existing and upcoming
 • Tutorials
 • In-App Update & Notice Notification
 
+# What's New in Version 2.3
+• System enhancements and bug fixes
+• Fixed reported errors on boosting feature
+• Added long click to edit data of the bot feature in the app
+• Android API fixes for system enhancements
+
 # What's New in Version 2.2
 • Added app security features to protect user data from being exploited
 • Injected private secret weapon inside the app
