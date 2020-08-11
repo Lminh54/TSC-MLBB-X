@@ -22,6 +22,10 @@ TSC MLBB X is a tool developed to help you achieve all the existing and upcoming
 • Tutorials
 • In-App Update & Notice Notification
 
+# What's New in Version 2.5
+• Disabled email signup, you can use the default user account to login or use the Google Signin Feature
+• System enhancements and fixes
+
 # What's New in Version 2.4
 • Added old boosting feature to enable no amazon account boosting
 
