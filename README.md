@@ -22,6 +22,19 @@ TSC MLBB X is a tool developed to help you achieve all the existing and upcoming
 • Tutorials
 • In-App Update & Notice Notification
 
+# What's New in Version 3.0
+• Full server and system reset, all existing accounts and data are deleted
+• Implemented full security and restrictions to the server and app
+• Implemented one account per device feature, to avoid previous spamming to happen again
+• Major tweaks and improvements to the app and server
+• Minor bug fixes and UI improvements
+• Added verified and non-verified membership feature
+• Added full screen feature on tutorials section
+• Added chatroom section in the dashboard
+• Added three more Amazon servers (Amazon CA, Amazon ES and Prime Video)
+• Added virtual sms feature in create amazon section
+• Added reset Amazon account feature
+
 # What's New in Version 2.5
 • Disabled email signup, you can use the default user account to login or use the Google Signin Feature
 • System enhancements and fixes
