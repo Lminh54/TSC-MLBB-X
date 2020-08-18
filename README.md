@@ -22,12 +22,22 @@ TSC MLBB X is a tool developed to help you achieve all the existing and upcoming
 • Tutorials
 • In-App Update & Notice Notification
 
+# Frequently Asked Questions
+• App not installed - If you can't install the app on your device, check if your android operating system version is supported by the app (Android 4.4 - Android 10) or uninstall existing old version of the app
+• App detected as a virus - Nothing to worry about, the application is not a virus and it is just a false antivirus result due to the app's signing key not verified by the Google Playstore, click on Install Anyway to continue installation
+• App force closes and shows chinese characters - This is common, nothing to worry about. Long press the app icon on your home screen and click on info then clear its data and cache then open again
+• Membership System - To use the app, you are required to create an account with your email address or Google account and then verify it by clicking the link sent to you in your email address
+• Membership Error - If you are experiencing errors while trying to signin or signup, a message will show up showing the error you've encountered. You may try signing in or signing up again after some time, or contact the developer and send a screenshot of the error
+• Error accessing available tools - The app now has a verified and non-verified membership system, if you can't access a specific tool, it means that your account is currently not verified by the developer
+
 # What's New in Version 3.0
 • Full server and system reset, all existing accounts and data are deleted
 • Implemented full security and restrictions to the server and app
 • Implemented one account per device feature, to avoid previous spamming to happen again
 • Major tweaks and improvements to the app and server
 • Minor bug fixes and UI improvements
+• Removed connecting to server loading in splash page
+• Splash page will now show only once each time the app is started
 • Added verified and non-verified membership feature
 • Added full screen feature on tutorials section
 • Added chatroom section in the dashboard
