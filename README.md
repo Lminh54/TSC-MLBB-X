@@ -37,6 +37,12 @@ TSC MLBB X is a tool developed to help you achieve all the existing and upcoming
 
 # What's New in Version 3.0
 <ul>
+<li>Major bugs and errors have been fixed</li>
+<li>Removed Google Signin feature</li>
+</ul>
+
+# What's New in Version 3.0
+<ul>
   <li>Full server and system reset, all existing accounts and data are deleted</li>
   <li>Implemented full security and restrictions to the server and app</li>
   <li>Implemented one account per device feature, to avoid previous spamming to happen again</li>
