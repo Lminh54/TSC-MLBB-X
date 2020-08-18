@@ -2,8 +2,8 @@
 TSC MLBB X is a tool developed to help you achieve all the existing and upcoming events of Mobile Legends: Bang Bang.
 
 # Features
-• Materialized UI
-• Membership System
+• Materialized UI\n
+• Membership System\n
 • Google Sign In
 • Update Notification
 • Create Amazon Prime Account
