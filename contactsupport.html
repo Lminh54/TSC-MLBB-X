@@ -1,26 +1,57 @@
-<!-- modify this form HTML and place wherever you want your form -->
+<!DOCTYPE html>
+<html>
 <head>
-<link href="https://bootswatch.com/3/paper/bootstrap.css" rel="sylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+</style>
 </head>
-
 <body>
-<div class="row">
-<form class="form-horizontal">
-  action="https://formspree.io/xvoweqbk"
-  method="POST">
 
-  <label>
-    Your email:
-    <input class="form-control" type="text" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea class="form-control" name="message"></textarea>
-  </label>
+<h3>Contact Form</h3>
 
-  <!-- your other form fields go here -->
+<div class="container">
+  <form action="https://formspree.io/xvoweqbk" method="post">
+    <label for="email">Email</label>
+    <input type="text" name="_replyto" placeholder="Email Address">
 
-  <button type="submit" class="btn btn-primary">Send</button>
-</form>
+    <label for="message">Message</label>
+    <textarea name="message" placeholder="Your question or message..." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+  </form>
 </div>
+
 </body>
+</html>
